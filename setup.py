@@ -15,7 +15,7 @@ PRE_TYPE = ""  # a, b, or rc (although we rarely release such versions)
 PRE_NUM = 0
 
 # REQUIREMENTS should list any required packages
-REQUIREMENTS=['future', 'openmmtools', 'numpy']
+REQUIREMENTS=['future', 'openmmtools', 'mdtraj', 'numpy']
 
 # PACKAGES should list any subpackages of the code. The assumption is that
 # package.subpackage is located at package/subpackage
